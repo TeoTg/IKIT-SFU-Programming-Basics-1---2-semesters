@@ -5,7 +5,7 @@
 ## Язык: С++
 
 ## IDE, которой использовался при написании работ:
-> MICROSOFT VISUAL STUDIO COMMUNITY 2017
+* MICROSOFT VISUAL STUDIO COMMUNITY 2017
 
 ## Связь со мной: 
 [VK](https://vk.com/zloysergunya)
