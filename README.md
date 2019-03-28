@@ -8,5 +8,5 @@
 * MICROSOFT VISUAL STUDIO COMMUNITY 2017
 
 ## Связь со мной: 
-[VK](https://vk.com/zloysergunya)
-[Telegram](https://t.me/zloysergunya)
+* [VK](https://vk.com/zloysergunya)
+* [Telegram](https://t.me/zloysergunya)
